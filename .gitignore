@@ -1,0 +1,15 @@
+# Test Suites
+.pytest_cache/
+
+# Temporary documentation files
+
+
+# Temporary files
+.eggs/
+ppmllib/__pycache__/
+tests/__pycache__/
+ppmllib.egg-info/
+
+ppml/
+venv/
+build/
